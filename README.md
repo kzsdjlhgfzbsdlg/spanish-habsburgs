@@ -8,7 +8,7 @@
 
 * **主題**：西班牙哈布斯堡王朝（1516–1700）歷史長廊
 * **核心定位**：純介紹、沉浸式歷史導覽（無考試、無測驗評量），營造西班牙黃金世紀（Siglo de Oro）的古典宮廷氛圍。
-* **線上展示**：[點此瀏覽實際網頁成果 (GitHub Pages)](https://你的GitHub帳號.github.io/專案名稱/)
+* **線上展示**：[點此瀏覽實際網頁成果 (GitHub Pages)](https://kzsdjlhgfzbsdlg.github.io/spanish-habsburgs/)
 
 ---
 
